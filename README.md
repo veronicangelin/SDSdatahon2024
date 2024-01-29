@@ -6,10 +6,12 @@ This project focuses on addressing Singlife's challenge of potential policyholde
 
 ## Methodology
 
-* **Data Analysis** 
+* **Data Analysis**
+
 This step inclides data expliration, data cleaning, and data engineering. We used pandas profiling to help us with understanding the raw data better before moving on to the next steps. This Exploratory Data Analysis (EDA) is done using ydata_profiling python package. the The data cleaning and feature engineering are done according to our findings from the EDA, and the code is included in the Notebook.
 
 * **Modelling**
+
 After several trial and error, we decided to use 3 models: XGBoost, Decision Tree, Logistic Regression, and an ensamble of the 3 of them. This combination of model helps to make the model more stable and robust.
 
 ## Repository Contents
