@@ -3,7 +3,7 @@
 ## Project overview
 
 ## Content of repository
-### 1. `NUS_DATATHON_SINGLIFE_TEAMNAME.ipynb`
+### 1. `NUS_DATATHON_SINGLIFE_286.ipynb`
 A Jupyter notebook detailing the analysis. The givcen template was used. The training model is in
 
 ### 2. `singlife_datathon_minimal.html`
