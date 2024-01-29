@@ -12,7 +12,7 @@ This step inclides data expliration, data cleaning, and data engineering. We use
 
 * **Modelling**
 
-After several trial and error, we decided to use 3 models: XGBoost, Decision Tree, Logistic Regression, and an ensamble of the 3 of them. This combination of model helps to make the model more stable and robust.
+After several trial and error, we decided to use 3 models: XGBoost, Decision Tree, Logistic Regression, and an ensemble of the 3 of them. This combination of models helps to make the model more stable and robust.
 
 ## Repository Contents
 
